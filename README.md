@@ -15,3 +15,8 @@ A lightweight Bash utility designed to diagnose network and communication issues
 
 *   Bash / Shell Script
 *   Zabbix API (optional connectivity check)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
